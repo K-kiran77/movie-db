@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Inception",
+    "director": "Christopher Nolan",
+    "genre": "Science Fiction",
+    "releaseYear": 2010,
+    "rating": 8.8,
+    "synopsis": "A thief who enters the dreams of others to steal their secrets...",
+    "image": "https://tse1.mm.bing.net/th?id=OIP.6WES5nhdyXVDPrxHG0vCvgHaKz&pid=Api&P=0&h=180"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Christopher Nolan",
+    "genre": "Action, Crime, Drama",
+    "releaseYear": 2008,
+    "rating": 9.0,
+    "synopsis": "When the menace known as the Joker emerges from his mysterious past...",
+    "image": "https://tse4.mm.bing.net/th?id=OIP.NN9rKH-vZbFgtH4FuoW7OwHaLH&pid=Api&P=0&h=180"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Christopher Nolan",
+    "genre": "Adventure, Drama, Sci-Fi",
+    "releaseYear": 2014,
+    "rating": 8.6,
+    "synopsis": "A team of explorers travel through a wormhole in space in an attempt...",
+    "image": "https://tse4.mm.bing.net/th?id=OIP.r35q8YEESJlVqpCansyBYQHaLH&pid=Api&P=0&h=180"
+  },
+  {
+    "title": "DDLJ (Dilwale Dulhania Le Jayenge)",
+    "director": "Aditya Chopra",
+    "genre": "Romance, Drama",
+    "releaseYear": 1995,
+    "rating": 8.1,
+    "synopsis": "A young man and woman - both of Indian descent but born and raised...",
+    "image": "https://tse1.mm.bing.net/th?id=OIP.umQABgl1Rz7TvUnBG_lG_gHaK5&pid=Api&P=0&h=180"
+  },
+  {
+    "title": "Bahubali: The Beginning",
+    "director": "S.S. Rajamouli",
+    "genre": "Action, Drama",
+    "releaseYear": 2015,
+    "rating": 8.1,
+    "synopsis": "In ancient India, an adventurous and daring man becomes involved...",
+    "image": "https://tse3.mm.bing.net/th?id=OIP.Wf9RBCbx12l5NhgJu4UXFgHaKs&pid=Api&P=0&h=180"
+  },
+  {
+    "title": "Pokiri",
+    "director": "Puri Jagannadh",
+    "genre": "Action, Crime, Drama",
+    "releaseYear": 2006,
+    "rating": 7.9,
+    "synopsis": "A local goon's killer instincts earn him his girlfriend's disapproval...",
+    "image": "https://tse3.mm.bing.net/th?id=OIP.-Uq35Wc2YXG6tbNuC0Qc_gHaLH&pid=Api&P=0&h=180"
+  }
+]
